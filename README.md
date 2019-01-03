@@ -1,7 +1,7 @@
 # Neural-Networks-and-Deep-Learning
 
-This repo contains the programming assignments completed by me in the course of Neural Networks and Deep Learning by deeplearning.ai on Coursera
-You can learn more about the course [here](https://www.coursera.org/learn/neural-networks-deep-learning)
+This repo contains the programming assignments completed by me in the course of Neural Networks and Deep Learning by deeplearning.ai on Coursera.
+You can learn more about the course [here.](https://www.coursera.org/learn/neural-networks-deep-learning)
 
 # A note before you proceed
 
